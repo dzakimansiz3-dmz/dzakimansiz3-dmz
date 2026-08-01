@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  &paperline=3/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
@@ -119,3 +119,9 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+## 🟡 Pac-Man Contribution
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dzakimansiz3-dmz/dzakimansiz3-dmz/output/pacman-contribution-graph.svg">
+</p>
