@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 ![Hello World](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pzazU2bHVncXE4OWl6czY4Y3VsZzNwYTJ4NmlvYXZsYzA2Z2liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)-->
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29wdm9hb2NneDBrcGdlaDFyZjdmMGVsa3ZzNTFhbnB6bWQ1MDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-</div>
+
 
 ###
 
@@ -119,6 +117,10 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dzakimansiz3-dmz&show_icons=true&theme=tokyonight">
+</p>
 
 ## 🟡 Pac-Man Contribution
 
